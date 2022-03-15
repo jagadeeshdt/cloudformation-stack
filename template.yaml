@@ -45,7 +45,7 @@ Parameters:
     AllowedPattern: '[a-zA-Z0-9]*'
     ConstraintDescription: must contain only alphanumeric characters.
   InstanceType:
-    Description: WebServer EC2 instance type
+    Description: WebServer EC2 instance types
     Type: String
     Default: t2.small
     AllowedValues:
