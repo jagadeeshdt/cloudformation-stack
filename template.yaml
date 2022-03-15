@@ -6,7 +6,7 @@ Description: >-
   install the packages and files necessary to deploy the Apache web server, PHP
   and MySQL at instance launch time. **WARNING** This template creates an Amazon
   EC2 instance. You will be billed for the AWS resources used if you create a
-  stack from this template.
+  stack from this templates.
 Parameters:
   KeyName:
     Description: Name of an existing EC2 KeyPair to enable SSH access to the instance
